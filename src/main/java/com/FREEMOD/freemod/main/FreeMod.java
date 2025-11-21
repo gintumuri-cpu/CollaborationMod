@@ -29,8 +29,7 @@ public class FreeMod {
         BlockRegister.register(eventBus);
         //アイテムの登録
         ItemRegister.register(eventBus);
-
-
+        
 
     }
     private void commonSetup(final FMLCommonSetupEvent event) {
