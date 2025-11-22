@@ -1,9 +1,6 @@
 {
-  "replace": false,
-  "values": [
-    "freemod:acid_tank",
-    "freemod:platinum_ore",
-    "freemod:deepslate_platinum_ore",
-    "freemod:oblivion_stone"
-  ]
+    "replace": false,
+    "values": [
+      "freemod:oblivion_stone"
+    ]
 }
