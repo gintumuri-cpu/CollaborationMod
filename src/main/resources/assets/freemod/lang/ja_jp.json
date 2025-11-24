@@ -27,5 +27,9 @@
 
   "block.freemod.oblivion_sapling" : "失われた苗木",
 
-  "item.freemod.acid_bucket" : "酸のバケツ"
+  "item.freemod.acid_bucket" : "酸のバケツ",
+
+  "item.freemod.platinum" : "プラチナ",
+
+  "item.freemod.platinum_ingot" : "プラチナインゴット"
 }

@@ -27,5 +27,9 @@
 
  "block.freemod.oblivion_sapling" : "Oblivion Sapling",
 
- "item.freemod.acid_bucket" : "Acid Bucket"
+ "item.freemod.acid_bucket" : "Acid Bucket",
+
+ "item.freemod.platinum" : "Platinum",
+
+ "item.freemod.platinum_ingot" : "Platinum Ingot"
 }
